@@ -29,6 +29,7 @@ namespace Ejercicio_2
 
             Console.WriteLine("El cuadrado: " + cuadrado);
             Console.WriteLine("El cubo: " + cubo);
+            
         }
     }
 }

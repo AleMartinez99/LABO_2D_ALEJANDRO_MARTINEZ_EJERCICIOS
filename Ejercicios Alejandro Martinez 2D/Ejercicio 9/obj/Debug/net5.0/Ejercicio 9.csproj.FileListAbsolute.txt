@@ -1,0 +1,16 @@
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.exe
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.deps.json
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.runtimeconfig.json
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.runtimeconfig.dev.json
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.dll
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.pdb
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.csproj.AssemblyReference.cache
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.AssemblyInfoInputs.cache
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.AssemblyInfo.cs
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.dll
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\refint\Ejercicio 9.dll
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.pdb
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.genruntimeconfig.cache
+C:\Users\Ale\Desktop\UTN\PROG Y LABO II\Ejercicios Alejandro Martinez 2D\Ejercicio 9\obj\Debug\net5.0\ref\Ejercicio 9.dll
